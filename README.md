@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **React and Laravel**
 
-- 👨‍💻 All of my projects are available at [mdhgtushar.github.io/projects](mdhgtushar.github.io/projects)
+- 👨‍💻 All of my projects are available at [mdhgtushar.github.io/projects]( My Projects)
 
-- 📝 I regularly write articles on [mdhgtushar.github.io/blog](mdhgtushar.github.io/blog)
+- 📝 I regularly write articles on [mdhgtushar.github.io/blog](My Blog)
 
 - 💬 Ask me about **Web design and Development**
 
 - 📫 How to reach me **mdhgtushar@gmail.com**
 
-- 📄 Know about my experiences [mdghtuhsar.github.io/about](mdghtuhsar.github.io/about)
+- 📄 Know about my experiences [mdhgtuhsar.github.io/about](About me)
 
 - ⚡ Fun fact **I know some magic tricks**
 
