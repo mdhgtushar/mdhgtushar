@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mdhgtushar@gmail.com**
 
-- 📄 Know about my experiences [mdhgtuhsar.github.io/about](About me)
+- 📄 Know about my experiences [About-me](mdhgtuhsar.github.io/about)
 
 - ⚡ Fun fact **I know some magic tricks**
 
