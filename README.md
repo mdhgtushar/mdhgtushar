@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=mdhgtushar&label=Profile%20views&color=0e75b6&style=flat" alt="mdhgtushar" />
 <h1 align="center">Hi 👋, I'm Md Hg Tushar</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
