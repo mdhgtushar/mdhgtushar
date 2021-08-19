@@ -1,3 +1,6 @@
+```
+# Hg Tushar
+```
 <img width="100%" src="https://github.com/mdhgtushar/mdhgtushar/blob/main/Md%20hg%20tushar.gif" alt="mdhgtushar" />
 <h1 align="center">Hi 👋, I'm Md Hg Tushar
 <h3 align="center">Full-Stack Web Developer</h3>
