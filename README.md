@@ -80,12 +80,12 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 
 
-## PHP Projects
+### PHP Projects
 
 > [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce) <br/>
 > [Laravel blog](https://github.com/kingRayhan/larablog) (TODO: should deploy and write readme)<br/>
 > 
-## Nodejs Projects
+### Nodejs Projects
 
 > [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce) <br/>
 > [Laravel blog](https://github.com/kingRayhan/larablog) (TODO: should deploy and write readme)<br/>
