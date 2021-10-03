@@ -26,14 +26,13 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
-  "frontend"   : ["Nextjs", "Nuxtjs", "React", "Gatsby", "Vue", "Svelte", ...more],
-  "mobile-app" : ["React Native", "Flutter"]
-  "backend"    : ["Apollo-server", "Nestjs", "Express", "Laravel", "Adonisjs", "Django", "Flask"],
-  "cms"        : ["Ghost", "WordPress", "Drupal", "Prestashop", "Magento", "kirby", "Strapi", "Contentful", "Shopify", "Netlify-cms"],
-  "dbms"       : ["Postgres", "MySQL", "Sqlite", "MongoDB","Redis", "Array 😂"],
-  "dbms-orm"   : ["Prisma", "Mongoose", "Typegoose", "TypeORM", "Sequilize", "knex"]
-  "languages"  : ["Dart", "Java", "Python", "Typescript", "Javascript", "php", "C", "C++", "Ada"],
-  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bulma" ...more]
+  "frontend"   : ["Html", "Css", "Javascript", "React", ...more],
+  "mobile-app" : ["React Native"]
+  "backend"    : ["Laravel", "Core PHP"],
+  "cms"        : ["WordPress", "Drupal"],
+  "dbms"       : ["MySQL", "Sqlite", "MongoDB", "Array 😂"],
+  "languages"  : ["Javascript", "php"],
+  "ui"         : ["Material-ui", "Styled-components", "Tailwind.css", "Bootstrap" ...more]
 }
 ```
 
@@ -41,13 +40,7 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
-   "quick-crud"          : "https://github.com/graph-land/quick-crud",
-   "graphql-placeholder" : "https://graphqlplaceholder.com",
-   "bnnum"               : "https://www.npmjs.com/package/bnnum",
-   "LineProgressbar"     : "https://kingrayhan.github.io/LineProgressbar/data-attrs-demo.html",
-   "react-tabs"          : "https://www.npmjs.com/package/reactjs-tab",
-   "gourl"               : "https://www.npmjs.com/package/gourl",
-   "mini-php"            : "https://github.com/kingRayhan/mini-php"
+   "codeEdtior"          : ["vsCode", "Atom"]
 }
 ```
 
@@ -55,13 +48,14 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
-   "quick-crud"          : "https://github.com/graph-land/quick-crud",
-   "graphql-placeholder" : "https://graphqlplaceholder.com",
-   "bnnum"               : "https://www.npmjs.com/package/bnnum",
-   "LineProgressbar"     : "https://kingrayhan.github.io/LineProgressbar/data-attrs-demo.html",
-   "react-tabs"          : "https://www.npmjs.com/package/reactjs-tab",
-   "gourl"               : "https://www.npmjs.com/package/gourl",
-   "mini-php"            : "https://github.com/kingRayhan/mini-php"
+   "CRUD"          : {
+   "Javascript": "link",
+   "Php": "link",
+   "PhpMysql": "link",
+   "React": "link",
+   "Laravel": "link",
+   "LaravelApi": "link"
+   }
 }
 ```
 
@@ -69,13 +63,30 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ```js
 {
-   "quick-crud"          : "https://github.com/graph-land/quick-crud",
-   "graphql-placeholder" : "https://graphqlplaceholder.com",
-   "bnnum"               : "https://www.npmjs.com/package/bnnum",
-   "LineProgressbar"     : "https://kingrayhan.github.io/LineProgressbar/data-attrs-demo.html",
-   "react-tabs"          : "https://www.npmjs.com/package/reactjs-tab",
-   "gourl"               : "https://www.npmjs.com/package/gourl",
-   "mini-php"            : "https://github.com/kingRayhan/mini-php"
+   "Full_Website_Build"          : {
+    "Title" : "Full Site Development",
+    "Description" : "simple Description",
+    "Price" : {
+    "startedAt": [200, "USD"];
+    "afterPayment": [true, "30%"]
+    }
+   },
+   "Frontend_Design"          : {
+    "Title" : "Frontend Development",
+    "Description" : "simple Description",
+    "Price" : {
+    "startedAt": [200, "USD"];
+    "afterPayment": [true, "30%"]
+    }
+   },
+   "Backend_API_Development"          : {
+    "Title" : "Backend Development",
+    "Description" : "simple Description",
+    "Price" : {
+    "startedAt": [200, "USD"];
+    "afterPayment": [true, "30%"]
+    }
+   },
 }
 ```
 
