@@ -92,13 +92,13 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 
 ### PHP Projects
 
-> [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce) <br/>
+> [basic-php-ecommerce](https://github.com/) <br/>
 > [Laravel blog](https://github.com/kingRayhan/larablog) (TODO: should deploy and write readme)<br/>
 > 
 ### Nodejs Projects
 
-> [basic-php-ecommerce](https://github.com/kingRayhan/basic-php-ecommerce) <br/>
-> [Laravel blog](https://github.com/kingRayhan/larablog) (TODO: should deploy and write readme)<br/>
+> [basic-php-ecommerce](https://github.com/) <br/>
+> [Laravel blog](https://github.com/) (TODO: should deploy and write readme)<br/>
 
 
 
