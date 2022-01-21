@@ -59,36 +59,6 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 }
 ```
 
-### mdhgtushar/services
-
-```js
-{
-   "Full_Website_Build"          : {
-    "Title" : "Full Site Development",
-    "Description" : "simple Description",
-    "Price" : {
-    "startedAt": [200, "USD"];
-    "afterPayment": [true, "30%"]
-    }
-   },
-   "Frontend_Design"          : {
-    "Title" : "Frontend Development",
-    "Description" : "simple Description",
-    "Price" : {
-    "startedAt": [200, "USD"];
-    "afterPayment": [true, "30%"]
-    }
-   },
-   "Backend_API_Development"          : {
-    "Title" : "Backend Development",
-    "Description" : "simple Description",
-    "Price" : {
-    "startedAt": [200, "USD"];
-    "afterPayment": [true, "30%"]
-    }
-   },
-}
-```
 
 ### PHP Projects
 
