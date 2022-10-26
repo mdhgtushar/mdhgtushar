@@ -12,7 +12,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdhgtushar)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mdhgtushar)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mdhgtushar) [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/mdhgtushar)
 
 
-My name is Hobayer and I'm a full stack web developer, Nodejs wizard. With my 8+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, vuejs, webpack, grunt, sass, jsx, handlebars etc.
+My name is Hobayer and I'm a full stack web developer, Nodejs wizard. With my 2+ years of freelancing career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, vuejs, webpack, grunt, sass, jsx, handlebars etc.
 
 Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/000000/graphql.png) Graphql and ![React Logo](https://img.icons8.com/office/16/000000/react.png) Reactjs.
 
