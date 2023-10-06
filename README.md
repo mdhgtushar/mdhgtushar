@@ -60,6 +60,15 @@ Typically I love to work with ![GraphQL Logo](https://img.icons8.com/color/18/00
 ```
 
 
+### HTML Projects
+
+> [Hobayer Golondaz Portfolio](https://mdhgtushar.github.io) <br/> 
+> [Rubidsoft Company Site V1](https://mdhgtushar.github.io/rubidsoft/) <br/> 
+> [School Management System v1](https://mdhgtushar.github.io/academyms/) <br/> 
+> [Personal Chat Platform](https://mdhgtushar.github.io/chat/) <br/> 
+> [Earning and Trading System](https://mdhgtushar.github.io/casinobet/) <br/> 
+> [Photographer Platform V1](https://mdhgtushar.github.io/photographer/) <br/> 
+> 
 ### PHP Projects
 
 > [basic-php-ecommerce](https://github.com/) <br/>
